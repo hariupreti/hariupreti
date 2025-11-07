@@ -5,9 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hariupreti" alt="hariupreti" /></a> </p>
 
-- 🔭 I’m currently working on [chillxma](https://chillxma.com)
-
-- 🌱 I’m currently learning **Flutter, WordPress and DevOps**
+- 🌱 I’m currently learning **DevOps**
 
 - 👨‍💻 All of my projects are available at [https://github.com/hariupreti](https://github.com/hariupreti)
 

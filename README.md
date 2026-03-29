@@ -1,21 +1,11 @@
 <h1 align="center">Hi 👋, I'm a computer enthusiast</h1>
 <h3 align="center">A passionate software developer from Nepal</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hariupreti&label=Profile%20views&color=0e75b6&style=flat" alt="hariupreti" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hariupreti" alt="hariupreti" /></a> </p>
-
 - 🌱 I’m currently learning **DevOps**
 
 - 👨‍💻 All of my projects are available at [https://github.com/hariupreti](https://github.com/hariupreti)
 
-- 📝 I regularly write articles on [https://chillxma.com/blog](https://chillxma.com/blog)
-
 - 💬 Ask me about **php, laravel, reactJS and PWA**
-
-- 📫 How to reach me **hariupreti1995@gmail.com**
-
-- 📄 Know about my experiences [https://hariupreti.com.np](https://hariupreti.com.np)
 
 - ⚡ Fun fact **I love to travel**
 
